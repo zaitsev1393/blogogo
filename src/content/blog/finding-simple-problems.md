@@ -1,6 +1,6 @@
 ---
-title: "Finding simple problems"
-description: "And solving them in software"
+title: "Little italian restaurants"
+description: "In web space"
 pubDate: "May 11 2023"
 ---
 
